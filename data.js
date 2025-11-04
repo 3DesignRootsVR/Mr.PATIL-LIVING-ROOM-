@@ -24,15 +24,15 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "pitch": 0,
         "yaw": 0,
-        "fov": 1.5707963267948966
+        "pitch": 0,
+        "fov": 1.4413225997054397
       },
       "linkHotspots": [],
       "infoHotspots": []
     }
   ],
-  "name": "Project Title",
+  "name": "MR PATIL LIVING ROOM",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
